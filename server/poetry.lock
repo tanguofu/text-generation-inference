@@ -1945,7 +1945,7 @@ files = [
 
 [[package]]
 name = "torch"
-version = "2.0.1+cu118"
+version = "2.1.0.dev20230815+cu121"
 description = "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
 optional = false
 python-versions = ">=3.8.0"
