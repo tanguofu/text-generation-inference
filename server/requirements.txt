@@ -1,4 +1,4 @@
---extra-index-url https://download.pytorch.org/whl/cu118
+--extra-index-url https://download.pytorch.org/whl/nightly/cu121
 
 accelerate==0.20.3 ; python_version >= "3.9" and python_version < "3.13"
 backoff==2.2.1 ; python_version >= "3.9" and python_version < "3.13"
